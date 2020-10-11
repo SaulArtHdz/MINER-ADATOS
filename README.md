@@ -13,4 +13,4 @@
 
 
 ## Fase 2: 
-[1. Ejercicio Bases de Datos]
+[1. Ejercicio Bases de Datos](https://github.com/SaulArtHdz/MINERIADATOS/blob/master/EjercicioBasesDatos-1815642-Gpo002.pdf)
