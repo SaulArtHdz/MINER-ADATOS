@@ -18,3 +18,4 @@
 [2. Ejercicios Python Básico](https://github.com/SaulArtHdz/MINERIADATOS/blob/master/PythonB%C3%A1sico_1815642.ipynb)
 
 [3. Avance 1 PIA I](https://github.com/SaulArtHdz/MINERIADATOS/blob/master/Equipo%209%20-%20MinDat%20Gpo%20002%20-%20Avance%201%20PIA%20I.pdf)
+
