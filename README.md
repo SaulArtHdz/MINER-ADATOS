@@ -19,3 +19,4 @@
 
 [3. Avance 1 PIA I](https://github.com/SaulArtHdz/MINERIADATOS/blob/master/Equipo%209%20-%20MinDat%20Gpo%20002%20-%20Avance%201%20PIA%20I.pdf)
 
+[4. Limpieza de Datos PIA Eq.9](https://github.com/SaulArtHdz/MINERIADATOS/blob/master/Eq9_Tarea1_PIA_Gpo002.ipynb)
