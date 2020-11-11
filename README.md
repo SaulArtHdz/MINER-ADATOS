@@ -22,3 +22,6 @@
 [4. P1 - Manipulación de Datos](https://github.com/AlisonRoldan13/MineriaDeDatos/blob/master/Untitled%20(1).ipynb)
 
 [5. P2 - Visualización de Datos](https://github.com/AlisonRoldan13/MineriaDeDatos/blob/master/Visualizacion.ipynb )
+
+## Fase 3:
+[1. Avance 2 PIA](https://github.com/SaulArtHdz/MINERIADATOS/blob/master/AvancePIA_II_Gpo002_Equipo9.ipynb)
