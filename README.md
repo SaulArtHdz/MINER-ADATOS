@@ -25,3 +25,5 @@
 
 ## Fase 3:
 [1. Avance 2 PIA](https://github.com/SaulArtHdz/MINERIADATOS/blob/master/AvancePIA_II_Gpo002_Equipo9.ipynb)
+
+[**2. Poster - Estadísticas de los jugadores en el mundo - Equipo 9 PIA.](https://github.com/AlisonRoldan13/MineriaDeDatos/blob/master/PIA_Equipo09_Grupo02.pdf) 
